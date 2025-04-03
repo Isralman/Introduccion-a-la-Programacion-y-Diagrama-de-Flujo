@@ -2,4 +2,5 @@ def suma(a,b):
     resultado = a + b
     return resultado
 
-def resta()
+def resta() 
+
